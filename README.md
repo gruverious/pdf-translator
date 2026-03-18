@@ -99,6 +99,7 @@ pdf-translator/
 - Add GUI  
 - Deploy as a web application  
 - Improve performance and translation speed
+- Improve translation efficiency
 
 ---
 
